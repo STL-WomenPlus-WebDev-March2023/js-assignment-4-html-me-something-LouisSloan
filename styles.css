@@ -1,1 +1,51 @@
 /* Write your CSS here! */
+body {
+    width: 100%;
+    max-width: max-content;
+    padding-inline: 3%;
+    padding-top: 1%;
+    margin: 8px;
+    display: block;
+    background-image: linear-gradient(to bottom, beige, palegoldenrod, rgb(201, 255, 121));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size:larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    text-align:center;
+    font-weight: bold;
+}
+
+#mainHeading {
+    text-indent: 2%;
+    color: red;
+}
+p {
+    margin-right: 4%;
+}
+.funParagraph {
+    color:green;
+    margin-right: 4%;
+}
+
+.garlicBulbs {
+    width: 360px;
+    padding-left: 15%;
+}
+
+.garlicFlowerPurple {
+    width: 420px;
+    padding-left: 8%;
+}
+
+.garlicFlowerWhite{
+    width: 420px;
+    padding-left: 3%;
+}
+
+footer {
+    text-align: left;
+    color: rebeccapurple;
+}
